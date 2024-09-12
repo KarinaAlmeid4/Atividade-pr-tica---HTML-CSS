@@ -1,0 +1,33 @@
+
+body{
+    background:none;
+    color: rgb(247, 247, 247);
+}
+
+#sob{
+    background-image: url('../img/fundo-abstrato-com-pontos-e-linhas-em-movimento-estrutura-de-conexao-de-rede-ilustracao-futurista-design-de-tecnologia-digital-renderizacao-em-3d_658411-37.avif');
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+}
+ 
+#hob{
+    background-image: url('../img/o-re-eterno-resenha-netflix-sbs.jpg');
+    font-family: Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+ 
+ 
+}
+ 
+#index{
+    background-image: url('../img/photo-1678247539182-716d8e54dd0a.jpg');
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    margin: 0;
+    
+}
